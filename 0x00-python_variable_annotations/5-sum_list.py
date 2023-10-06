@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
+"""A function that takes list of floats and returns their sum"""
 
 from typing import List
-
-"""A function that takes list of floats and returns their sum"""
 
 
 def sum_list(input_list: List[float]) -> float:
